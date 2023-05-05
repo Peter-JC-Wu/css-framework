@@ -1,2 +1,3 @@
+# ignore ALL html and css files
 *.html
 *.css
